@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrudulaK1812
 - 👀 I’m interested in Web 
 - 🌱 I’m currently learning Dart and Backend 
-- 💞️ I’m looking to collaborate on any open-source project 
+- 💞️ I’m looking to collaborate on open-source  
 - 📫 How to reach me mruduk1812@gmail.com
 
 <!---
